@@ -3,7 +3,7 @@
 ✅ Scraping data google maps
 ✅ Dataset mentah hasil scraping
 ✅ Preprocessing data (Text preprocessing)
-🔲 Topic modelling LDA + Visualisasi (wordcloud, barchart, etc)
+✅ Topic modelling LDA + Visualisasi
 
 ### Persiapan Laporan:
 🔲 Pendahuluan
@@ -16,5 +16,5 @@
 ### Persiapan Presentasi:
 🔲 PPT
 
-### Persiapan Kode:
+### Kode:
 🔲 Source Code
