@@ -1,0 +1,47 @@
+name,rating,snippet,clean_text,stemmed_text,tokenized_text
+Mahasiswa Pelajar,5.0,"Lokasi Kampusnya strategis, 1 menit keluar tol pasar minggu
+lulusan nya memiliki kompetensi dan knowledge keren, ga percaya? cek di google via meta ai juga boleh
+
+#Cyberian #NewGeneration",lokasi kampusnya strategis 1 menit tol pasar minggu lulusan memiliki kompetensi knowledge keren ga percaya cek google via meta ai cyberian newgeneration,lokasi kampus strategis 1 menit tol pasar minggu lulus milik kompetensi knowledge keren ga percaya cek google via meta ai cyberian newgeneration,"['lokasi', 'kampus', 'strategis', '1', 'menit', 'tol', 'pasar', 'minggu', 'lulus', 'milik', 'kompetensi', 'knowledge', 'keren', 'ga', 'percaya', 'cek', 'google', 'via', 'meta', 'ai', 'cyberian', 'newgeneration']"
+Fathia Rizky,5.0,"fasilitas nya ⭐⭐⭐⭐⭐
+ac nya masyaallah dingin bgt 🥶",fasilitas ac masyaallah dingin banget ,fasilitas ac masyaallah dingin banget,"['fasilitas', 'ac', 'masyaallah', 'dingin', 'banget']"
+Michael Sitorus,5.0,Kampus yang cocok untuk era digitalisasi dan milenial. Kampusnya keren...,kampus cocok era digitalisasi milenial kampusnya keren,kampus cocok era digitalisasi milenial kampus keren,"['kampus', 'cocok', 'era', 'digitalisasi', 'milenial', 'kampus', 'keren']"
+Malinda Malinda,5.0,"dosen dosen Universitas Siber Indonesia, berpengalaman",dosen dosen universitas siber indonesia berpengalaman,dosen dosen universitas siber indonesia alam,"['dosen', 'dosen', 'universitas', 'siber', 'indonesia', 'alam']"
+Yudi Mulyawan,5.0,"Kampus saya makin keren aja,
+😁, sebagai angkatan pertama yang lulus semoga makin banyak adek kelas saya 🥳
+Dosen nya keren keren 🙌🏻",kampus keren angkatan lulus semoga adek kelas dosen keren keren ,kampus keren angkat lulus moga adek kelas dosen keren keren,"['kampus', 'keren', 'angkat', 'lulus', 'moga', 'adek', 'kelas', 'dosen', 'keren', 'keren']"
+Nur Raly,5.0,"Pengajar yg bepengalam, kampus yg nyaman, biaya kuliah terjangkau dan cocok untuk calon mahasiswa yg milenial",pengajar bepengalam kampus nyaman biaya kuliah terjangkau cocok calon mahasiswa milenial,ajar bepengalam kampus nyaman biaya kuliah jangkau cocok calon mahasiswa milenial,"['ajar', 'bepengalam', 'kampus', 'nyaman', 'biaya', 'kuliah', 'jangkau', 'cocok', 'calon', 'mahasiswa', 'milenial']"
+Hendra Rudystira,5.0,"Berawal dari BRI Institute, menjadikan Cyber University kampus baru yg mendapat banyak kepercayaan dr orang tua utk mengkuliahkan putra/i nya disini. 👍👍",bri institute menjadikan cyber university kampus kepercayaan orang tua mengkuliahkan putrai ,bri institute jadi cyber university kampus percaya orang tua kuliah putra,"['bri', 'institute', 'jadi', 'cyber', 'university', 'kampus', 'percaya', 'orang', 'tua', 'kuliah', 'putra']"
+Palupi R,5.0,ternyata ada kampus bagus di TB Simatupang...,kampus bagus tb simatupang,kampus bagus tb simatupang,"['kampus', 'bagus', 'tb', 'simatupang']"
+Andreas Wardoyo,5.0,Baik sekali,,,[]
+Desvika Elsar,5.0,"Kampusnya sangat nyaman terutama di perpusnya, lokasi strategis.",kampusnya nyaman perpusnya lokasi strategis,kampus nyaman pus lokasi strategis,"['kampus', 'nyaman', 'pus', 'lokasi', 'strategis']"
+Dwipo Setyantoro,5.0,Kampus nyaman dengan kesempatan magang di industri selama 2 semester bagi para mahasiswanya,kampus nyaman kesempatan magang industri 2 semester mahasiswanya,kampus nyaman sempat magang industri 2 semester mahasiswa,"['kampus', 'nyaman', 'sempat', 'magang', 'industri', '2', 'semester', 'mahasiswa']"
+Online Video,5.0,kampus yang baik dan nyaman,kampus nyaman,kampus nyaman,"['kampus', 'nyaman']"
+ZIL ZIL,5.0,"bagus kampusnya, bersih enak buat belajar",bagus kampusnya bersih enak belajar,bagus kampus bersih enak ajar,"['bagus', 'kampus', 'bersih', 'enak', 'ajar']"
+wahyu Susetyo,5.0,"Kampus terkeren dengan dosen yang luar biasa, sukses selalu..",kampus terkeren dosen sukses,kampus keren dosen sukses,"['kampus', 'keren', 'dosen', 'sukses']"
+Sofian Wirahadi,5.0,"Kampus Cyber University bersih dan nyaman, adminnya juga baik dalam menyampaikan informasi tentang perkuliahan ...",kampus cyber university bersih nyaman adminnya informasi perkuliahan,kampus cyber university bersih nyaman adminnya informasi kuliah,"['kampus', 'cyber', 'university', 'bersih', 'nyaman', 'adminnya', 'informasi', 'kuliah']"
+Rifka Widyastuti,5.0,semangat bangkit membangun negeri bersama The New Generation dengan bekal ilmu IT dan Digital Enterpreneur,semangat bangkit membangun negeri the new generation bekal ilmu it digital enterpreneur,semangat bangkit bangun negeri the new generation bekal ilmu it digital enterpreneur,"['semangat', 'bangkit', 'bangun', 'negeri', 'the', 'new', 'generation', 'bekal', 'ilmu', 'it', 'digital', 'enterpreneur']"
+Arisena Hendrawan,5.0,"Dosen muda yang punya pengalaman bidang IT, ekonomi, kewirausahaan dan digital entrepreneur.",dosen muda pengalaman bidang it ekonomi kewirausahaan digital entrepreneur,dosen muda alam bidang it ekonomi kewirausahaan digital entrepreneur,"['dosen', 'muda', 'alam', 'bidang', 'it', 'ekonomi', 'kewirausahaan', 'digital', 'entrepreneur']"
+Warjy Ortega,5.0,"Kampusnya keren seh, prodinya apa aja min?",kampusnya keren seh prodinya min,kampus keren seh prodinya min,"['kampus', 'keren', 'seh', 'prodinya', 'min']"
+Safrilla Bagas,5.0,Lokasi kampus nya sangat strategis👍👍,lokasi kampus strategis ,lokasi kampus strategis,"['lokasi', 'kampus', 'strategis']"
+Matius Zagoto,5.0,Lokasi yang strategis Dosen yang sudah berpengalaman,lokasi strategis dosen berpengalaman,lokasi strategis dosen alam,"['lokasi', 'strategis', 'dosen', 'alam']"
+"Gunawan Witjaksono, PhD",5.0,Kampusnya keren dan mudah aksesnya,kampusnya keren mudah aksesnya,kampus keren mudah akses,"['kampus', 'keren', 'mudah', 'akses']"
+rian septian,5.0,Sangat bagus terutama dosennya baik baik,bagus dosennya,bagus dosen,"['bagus', 'dosen']"
+Agung Fazriansyah,5.0,Kampus dengan fasilitas yang nyaman dan keren,kampus fasilitas nyaman keren,kampus fasilitas nyaman keren,"['kampus', 'fasilitas', 'nyaman', 'keren']"
+Rizki Hesananda,5.0,ruangan kampusnya keren abis,ruangan kampusnya keren abis,ruang kampus keren abis,"['ruang', 'kampus', 'keren', 'abis']"
+hasan basri,5.0,Suka perpus nya ...,suka perpus,suka pus,"['suka', 'pus']"
+Yavin Ginting,5.0,ruangan bagus,ruangan bagus,ruang bagus,"['ruang', 'bagus']"
+Kastin Tinara,5.0,Kampusnya kerenn 👍👍,kampusnya kerenn ,kampus kerenn,"['kampus', 'kerenn']"
+Putri Artanti,5.0,kampus dengan akses sangat mudah,kampus akses mudah,kampus akses mudah,"['kampus', 'akses', 'mudah']"
+Yulita ayu Wardani,5.0,Dosen dan staffnya keren,dosen staffnya keren,dosen staffnya keren,"['dosen', 'staffnya', 'keren']"
+Abung Widodo,5.0,Dosennya sangat ramah,dosennya ramah,dosen ramah,"['dosen', 'ramah']"
+Marghiasto Fajar S S,5.0,strategis & nyaman,strategis nyaman,strategis nyaman,"['strategis', 'nyaman']"
+alwie risnandar,5.0,Lokasinya strategis..,lokasinya strategis,lokasi strategis,"['lokasi', 'strategis']"
+Utomoadji Wisnubroto (Tom's Alpha XP),5.0,Kampus yang Mantab,kampus mantab,kampus mantab,"['kampus', 'mantab']"
+Ishak Kholil,5.0,Strategis Lokasinya,strategis lokasinya,strategis lokasi,"['strategis', 'lokasi']"
+Dicky Hariyanto,5.0,Kampus keren di Jakarta Selatan,kampus keren jakarta selatan,kampus keren jakarta selatan,"['kampus', 'keren', 'jakarta', 'selatan']"
+N Putra SK,5.0,Very enjoyable,very enjoyable,very enjoyable,"['very', 'enjoyable']"
+A Trihandoyo,5.0,Great campus to prepare young leaders in fintech,great campus to prepare young leaders,great campus to prepare young leaders,"['great', 'campus', 'to', 'prepare', 'young', 'leaders']"
+Anang Martoyo,5.0,We wish Cyber University will be smart campoes,cyber university,cyber university,"['cyber', 'university']"
+Fitria,5.0,the new generation IT campus,the new generation it campus,the new generation it campus,"['the', 'new', 'generation', 'it', 'campus']"
+Ninuk Wiliani,5.0,nice,,,[]
